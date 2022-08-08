@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+ <suite name="This suite is created for Page object model configure example" verbose="2">
+
+    <test name="This test is created for orangeHRM Login functionality">
+        <classes>
+            <class name="POM_TC.Login_TC"> </class>
+        </classes>
+    </test>
+    
+    <test name="This test is created for myInfo functionality">
+        <classes>
+            <class name="POM_TC.myInfo_TC"> </class>
+        </classes>
+    </test>
+
+</suite>
